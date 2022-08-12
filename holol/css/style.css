@@ -450,7 +450,7 @@ opacity: 1;
 }
 
 
-@media (max-width:790px){
+@media (max-width:790px)and (1199px){
     .card-block1{
         height: 130px;
     width: 200px;
