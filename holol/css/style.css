@@ -354,7 +354,7 @@ footer.footer .top-footer h5::after {
     background-color: #5c5c5c;
 }
 
-footer.footer .top-footer .about-us p {
+/* footer.footer .top-footer .about-us p {
 
     font-size: 15px;
     line-height: 22px;
@@ -401,7 +401,7 @@ footer.footer .top-footer ul.contact-list li i {
     color: #acacac;
     border-radius: 2px;
     margin-left: 15px;
-}
+} */
 
 footer.footer .copyright {
     background-color: #111111;
