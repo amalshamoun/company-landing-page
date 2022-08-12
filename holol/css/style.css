@@ -450,7 +450,7 @@ opacity: 1;
 }
 
 
-@media (max-width:790px)and (1199px){
+@media screen and (min-device-width: 567px) and (max-device-width: 1201px){
     .card-block1{
         height: 130px;
     width: 200px;
