@@ -658,26 +658,4 @@ width: 200px;
    }
 }
 
-@media (max-width : 1400px ) {
 
-.list-inline-item1 {
-    margin-right: 140px;
-    margin-top: -35px;
-}
-
-        
-.ourteam {
-    margin-right: 500px;
-    margin-top: -320px;
-
-}
-.feedback {
-    margin-right: 500px;
-}
-.our{
-    margin-top: 100px;
-}
-
-
-    
-}
